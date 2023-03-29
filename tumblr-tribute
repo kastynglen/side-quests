@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tribute to Tumblr</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f5f5f5;
+        color: #333;
+        margin: 0;
+        padding: 0;
+      }
+      
+      header {
+        background-color: #35465c;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+      
+      h1 {
+        margin: 0;
+        font-size: 48px;
+        text-shadow: 2px 2px #333;
+      }
+      
+      section {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 50px 20px;
+        text-align: justify;
+        line-height: 1.5;
+      }
+      
+      img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+      }
+      
+      footer {
+        background-color: #35465c;
+        color: #fff;
+        text-align: center;
+        padding: 20px;
+      }
+      
+      a {
+        color: #fff;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Tribute to Tumblr</h1>
+    </header>
+    <section>
+      <img src="https://www.tumblr.com/images/logo/logo-og.png" alt="Tumblr Logo">
+      <p>Tumblr is a microblogging platform that was created in 2007. It allows users to post text, images, videos, and other types of media to their blogs. Tumblr quickly became popular among young people and artists, who used the platform to share their work and connect with others who had similar interests.</p>
+      <p>One of Tumblr's defining features is its sense of community. Users can follow each other's blogs, reblog each other's posts, and like posts. This creates a sense of interconnectedness that is hard to find on other social media platforms.</p>
+      <p>Over the years, Tumblr has had its ups and downs. It was acquired by Yahoo! in 2013, and then by Verizon in 2017. In 2018, the platform banned adult content, which upset many users. However, Tumblr continues to be a beloved platform for many people, and its influence on internet culture cannot be overstated.</p>
+    </section>
+    <footer>
+      <p>Created by <a href="https://www.kastyn.super.site/">Kastyn</a></p>
+    </footer>
+  </body>
+</html>
